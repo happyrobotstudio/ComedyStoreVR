@@ -12,9 +12,17 @@ ModelImporter:
     2100008: v_21_detail.5
     2100010: v_21_detail.6
     2100012: v_21_detail.7
+    2100014: v_21_detail.002
+    2100016: v_21_detail.008
+    2100018: v_21_detail.009
+    2100020: v_21_detail.010
+    2100022: v_21_detail.011
+    2100024: v_21_detail.012
+    2100026: v_21_detail.013
     2300000: //RootNode
     3300000: //RootNode
     4300000: detail
+    4300002: v_21_detail
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -7,9 +7,12 @@ ModelImporter:
     400000: //RootNode
     2100000: v_21_curtains.0
     2100002: v_21_curtains.1
+    2100004: v_21_curtains.002
+    2100006: v_21_curtains.003
     2300000: //RootNode
     3300000: //RootNode
     4300000: curtains
+    4300002: v_21_curtains
   externalObjects: {}
   materials:
     importMaterials: 1
