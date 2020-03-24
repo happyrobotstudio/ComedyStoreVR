@@ -6,7 +6,9 @@
 
 &nbsp;
 
-Unity 2017.4.28f1 is required (and VRChat to be installed)
+Unity 2017.4.28f1 is required (and VRChat installed)
+
+&nbsp;
 
 Get Unity Hub
 https://unity3d.com/get-unity/download
