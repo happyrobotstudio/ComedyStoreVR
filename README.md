@@ -1,8 +1,10 @@
 # ComedyStoreVR
 
+\
 
 > A virtual re-creation of the Comedy Store, West Hollywood because the world has gone mad with hammertoe, it's a nightmare and Redban is livestreaming the end of the world on VRChat.
 
+\
 
 Unity 2017.4.28f1 is required (and VRChat to be installed)
 
